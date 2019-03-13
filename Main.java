@@ -5,6 +5,6 @@ class Main {
 		a.idade = 19;
 		a.anoNascimento = 2000;
 		a.altura = 1.74;
-		System.out.println(a.idade);
+		System.out.println(a.idade+a.altura);
 	}
 }
